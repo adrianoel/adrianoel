@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Adriano Elia, a recent graduate of a professional training program in Data Analytics and Data Science.
+
+🌱 Current interests:
+- Machine learning workflows
+- AI development
+- Python-based software-engineering
+- Video game development
+
 <!--
 **adrianoel/adrianoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
